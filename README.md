@@ -7,15 +7,15 @@ Por meio da interface, o usuário pode registrar novos cursos informando seus da
 
 ## Principais fluxos disponíveis 
 Durante a exploração da aplicação foram identificados os seguintes fluxos principais:
-● Cadastro de novos cursos
-● Listagem dos cursos cadastrados
-● Validação de campos no cadastro dos cursos
-● Exibição das informações dos cursos cadastrados 
-● Exclusão dos cursos cadastrados na lista
+- Cadastro de novos cursos
+- Listagem dos cursos cadastrados
+- Validação de campos no cadastro dos cursos
+- Exibição das informações dos cursos cadastrados 
+- Exclusão dos cursos cadastrados na lista
 
 ## Pontos críticos para teste 
 Os pontos considerados críticos na análise da aplicação foram:
-● A validação dos campos no cadastro de novos cursos
-● Possíveis falhas de interface ou botões que não executem corretamente suas funções
-● Comportamento do sistema em cenários negativos (campos vazios, dados inválidos ou erros de interação)
-● Consistência das informações apresentadas na listagem de cursos
+- A validação dos campos no cadastro de novos cursos
+- Possíveis falhas de interface ou botões que não executem corretamente suas funções
+- Comportamento do sistema em cenários negativos (campos vazios, dados inválidos ou erros de interação)
+- Consistência das informações apresentadas na listagem de cursos

@@ -3,14 +3,15 @@ Desafio técnico
 
 ## Objetivo da aplicação  
 A aplicação tem como objetivo permitir o cadastro e a visualização de cursos em uma plataforma simples de gerenciamento.
-Por meio da interface, o usuário pode registrar novos cursos informando seus dados e posteriormente visualizar os cursos cadastrados em uma listagem.
+
+Por meio da interface, o usuário pode cadastrar novos cursos informando dados sobre o curso, como nome, descrição, e instrutor. Após o cadastro, os cursos registrados podem ser visualizados por meio da funcionalidade de listagem de cursos, onde as informações cadastradas são exibidas para consulta.
 
 ## Principais fluxos disponíveis 
 Durante a exploração da aplicação foram identificados os seguintes fluxos principais:
 - Cadastro de novos cursos
 - Listagem dos cursos cadastrados
 - Validação de campos no cadastro dos cursos
-- Exibição das informações dos cursos cadastrados 
+- Exibição das informações do curso cadastrado
 - Exclusão dos cursos cadastrados na lista
 
 ## Pontos críticos para teste 

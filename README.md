@@ -22,8 +22,12 @@ Os pontos considerados críticos na análise da aplicação foram:
 - Consistência das informações apresentadas na listagem de cursos
 
 ## Casos de teste
-Os casos de testes estão documentado na planilha abaixo:
+Os cenarios\casos de testes estão documentado na planilha abaixo:
 https://docs.google.com/spreadsheets/d/1ImkWNSIsUu44hVKzfzdUNc2Cy8dokhRFdYav-ZtKRBQ/edit?usp=
 
 ## Evidências dos testes
+As evidências (prints da execução) estão documentadas na pasta abaixo:
 https://drive.google.com/drive/folders/1KcyPZA9x_I4rjrsXhAt1h8kpPI3BupbX?usp=sharing
+
+## Os bugs estão documentados na planilha 
+https://docs.google.com/spreadsheets/d/1ImkWNSIsUu44hVKzfzdUNc2Cy8dokhRFdYav-ZtKRBQ/edit?usp=sharing

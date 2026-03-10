@@ -30,4 +30,4 @@ As evidências (prints da execução) estão documentadas na pasta abaixo:
 https://drive.google.com/drive/folders/1KcyPZA9x_I4rjrsXhAt1h8kpPI3BupbX?usp=sharing
 
 ## Os bugs estão documentados na planilha 
-https://docs.google.com/spreadsheets/d/1ImkWNSIsUu44hVKzfzdUNc2Cy8dokhRFdYav-ZtKRBQ/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1ImkWNSIsUu44hVKzfzdUNc2Cy8dokhRFdYav-ZtKRBQ/edit?gid=1158971761#gid=1158971761
